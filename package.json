@@ -32,7 +32,7 @@
   },
   "homepage": "http://loopback.io",
   "dependencies": {
-    "loopback-datasource-juggler": "^4.0.0",
+    "loopback-datasource-juggler": "^5.0.0",
     "strong-remoting": "https://github.com/smart-unit/strong-remoting.git"
   },
   "devDependencies": {
